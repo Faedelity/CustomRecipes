@@ -1,6 +1,12 @@
 Custom Recipes
 =============
 
+This is intended to be a full separate fork of Custom Recipes by TheBoo, which has not seen development in some time. The target version is currently expected to be 1.16.x, with specific focus on 1.16.5, due to a wider range of mods being available for that than 1.17. It may or may not be updated for later versions, as it is being developed primarily for personal use. It is unlikely to be backported to fill in the gap of availability.
+
+Below is the original Readme, currently kept because it is uncertain yet how much will be retained in the forked mod. 
+
+=============
+
 Welcome to the official repository of Custom Recipes by TheBoo! Here you'll find the source code behind the mod, as well as an issue tracker and some test builds!
 
 #### **Creating an Issue**
